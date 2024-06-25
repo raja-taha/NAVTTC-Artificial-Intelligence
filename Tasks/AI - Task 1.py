@@ -157,9 +157,9 @@ The following lines of code assign values to variables.
 #     n = len(sorted_list)
 #     mid = n // 2
 #
-#     if n % 2 == 0:  # If even number of elements, take the average of the middle two
+#     if n % 2 == 0:
 #         median = (sorted_list[mid - 1] + sorted_list[mid]) / 2
-#     else:  # If odd number of elements, take the middle one
+#     else:
 #         median = sorted_list[mid]
 #
 #     return median
@@ -167,3 +167,23 @@ The following lines of code assign values to variables.
 # list3 = [1, 2, 3, 4, 5]
 # print("Mean of the list:", calculate_mean(list3))
 # print("Median of the list:", calculate_median(list3))
+
+# Question 12
+# list4 = [1, 2, 3, 4, 5]
+# sqrList4 = [x**2 for x in list4]
+# print(sqrList4)
+
+# Question 13
+# list5 = [1, 2, 3, 4, 5]
+# sqrList5 = [x**3 for x in list5]
+# print(sqrList5)
+
+# Question 14
+# list6 = [23, 45, 12, 68, 41, 10]
+# element = 68
+# found = element in list6
+#
+# if found:
+#     print(element, " is found at index: ", list6.index(element))
+# else:
+#     print(element, " is not found")
