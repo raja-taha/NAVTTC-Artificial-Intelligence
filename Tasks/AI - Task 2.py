@@ -69,20 +69,20 @@
 # print(find_common_elements(set1, set2))
 
 # Question 2
-def unique_elements(lst):
-    count_dict = {}
-    for elem in lst:
-        if elem in count_dict:
-            count_dict[elem] += 1
-        else:
-            count_dict[elem] = 1
-
-    unique_set = set()
-    for elem, count in count_dict.items():
-        if count == 1:
-            unique_set.add(elem)
-
-    return unique_set
-
-lst = [1, 2, 2, 3, 4, 4, 5, 6, 6]
-print(unique_elements(lst))
+# def unique_elements(lst):
+#     count_dict = {}
+#     for elem in lst:
+#         if elem in count_dict:
+#             count_dict[elem] += 1
+#         else:
+#             count_dict[elem] = 1
+#
+#     unique_set = set()
+#     for elem, count in count_dict.items():
+#         if count == 1:
+#             unique_set.add(elem)
+#
+#     return unique_set
+#
+# lst = [1, 2, 2, 3, 4, 4, 5, 6, 6]
+# print(unique_elements(lst))
