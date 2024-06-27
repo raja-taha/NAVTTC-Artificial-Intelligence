@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46cb9898-a37c-4e79-82f7-3b47c09ae3b2" name="Changes" comment="Task 2 Completed">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important Libraries/Matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important Libraries/Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important Libraries/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important Libraries/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/data2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/data3.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/AI - Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/AI - Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Important Libraries/Extend Data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +57,22 @@
   "keyToString": {
     "Python.AI - Task 1.executor": "Run",
     "Python.AI - Task 2.executor": "Run",
+    "Python.AI - Task 3.executor": "Run",
     "Python.Day 3 Task.executor": "Run",
     "Python.Dictionary.executor": "Run",
+    "Python.Important Libraries.executor": "Run",
     "Python.Lists.executor": "Run",
+    "Python.Pandas.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.Tuple.executor": "Run",
     "Python.activate_this.executor": "Run",
+    "Python.knn.executor": "Run",
+    "Python.visualize.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Muhammad Taha/Desktop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,8 +82,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Tasks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Tasks" />
+      <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Important Libraries" />
+      <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Machine Learning" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -89,7 +110,8 @@
       <workItem from="1719073369719" duration="939000" />
       <workItem from="1719126566095" duration="4025000" />
       <workItem from="1719220782686" duration="6622000" />
-      <workItem from="1719307988539" duration="10487000" />
+      <workItem from="1719307988539" duration="11195000" />
+      <workItem from="1719394036443" duration="6636000" />
     </task>
     <task id="LOCAL-00001" summary="initial Commit">
       <option name="closed" value="true" />
@@ -131,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719325526143</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task 2 Completed">
+      <option name="closed" value="true" />
+      <created>1719327381097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719327381097</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,13 +185,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Task 2 Completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_3.coverage" NAME="AI - Task 3 Coverage Results" MODIFIED="1719411980313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Important_Libraries.coverage" NAME="Important Libraries Coverage Results" MODIFIED="1719407218666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1719308832973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Pandas.coverage" NAME="Pandas Coverage Results" MODIFIED="1719408732491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Important Libraries" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$visualize.coverage" NAME="visualize Coverage Results" MODIFIED="1719399044923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1719311009342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$knn.coverage" NAME="knn Coverage Results" MODIFIED="1719398677251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Day_3_Task.coverage" NAME="Day 3 Task Coverage Results" MODIFIED="1719128024592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_2.coverage" NAME="AI - Task 2 Coverage Results" MODIFIED="1719327218815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1719310589734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$activate_this.coverage" NAME="activate_this Coverage Results" MODIFIED="1719073409202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
-    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1719308832973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1719310999062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_1.coverage" NAME="AI - Task 1 Coverage Results" MODIFIED="1719323109395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
-    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1719311009342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
   </component>
 </project>
