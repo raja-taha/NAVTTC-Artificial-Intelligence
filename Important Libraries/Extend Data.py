@@ -26,6 +26,6 @@ data = {
 df = pd.DataFrame(data)
 
 # Save the DataFrame to a CSV file
-df.to_csv('data.csv', index=False)
+df.to_csv('../Datasets/data.csv', index=False)
 
 print("Data saved to data.csv")

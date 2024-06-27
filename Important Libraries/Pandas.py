@@ -16,11 +16,11 @@ import pandas as pd
 # print(df)
 
 # Loading and reading data from CSVs
-# data = pd.read_csv('data.csv')
+# data = pd.read_csv('../Datasets/data.csv')
 # print(data)
 
 # Iris Dataset
-# data = pd.read_csv('iris.csv', names=['sepal length', 'sepal width', 'petal length', 'petal width', 'species'])
+# data = pd.read_csv('../Datasets/iris.csv', names=['sepal length', 'sepal width', 'petal length', 'petal width', 'species'])
 # print(data)
 #
 # print(data.head())

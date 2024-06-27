@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Question 1
-# data = pd.read_csv('data.csv')
+# data = pd.read_csv('../Datasets/data.csv')
 # print(data)
 
 # Question 1: (a)
@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
 # print(data)
 
 # Question 2
-# data = pd.read_csv('data2.csv')
+# data = pd.read_csv('../Datasets/data2.csv')
 # print(data[data['score'].isnull()])
 
 # Question 3
@@ -36,7 +36,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the DataFrame from the CSV file
-data = pd.read_csv('data3.csv')
+data = pd.read_csv('../Datasets/data3.csv')
 
 data['Date'] = pd.to_datetime(data['Date'])
 data.set_index('Date', inplace=True)
