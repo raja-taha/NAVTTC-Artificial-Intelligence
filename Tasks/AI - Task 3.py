@@ -27,8 +27,8 @@ import matplotlib.pyplot as plt
 # print(data)
 
 # Question 2
-# data = pd.read_csv('../Datasets/data2.csv')
-# print(data[data['score'].isnull()])
+data = pd.read_csv('../Datasets/data2.csv')
+print(data[data['score'].isnull()])
 
 # Question 3
 

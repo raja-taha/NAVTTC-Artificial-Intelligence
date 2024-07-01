@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cb9898-a37c-4e79-82f7-3b47c09ae3b2" name="Changes" comment="Task 3 Completed">
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Aggregation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Association.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Composition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Multilevel Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Multiple Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 4/Polymorphism.py" afterDir="false" />
+    <list default="true" id="46cb9898-a37c-4e79-82f7-3b47c09ae3b2" name="Changes" comment="Task 4 Completed">
+      <change afterPath="$PROJECT_DIR$/Datasets/loan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Important Libraries/Data Manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample Code/Image Generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 5/KNN - Iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 5/KNN - Loan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/AI - Task 6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Important Libraries/Matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Important Libraries/Matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/AI - Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/AI - Task 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +57,19 @@
     "Python.AI - Task 1.executor": "Run",
     "Python.AI - Task 2.executor": "Run",
     "Python.AI - Task 3.executor": "Run",
+    "Python.AI - Task 5.executor": "Run",
+    "Python.AI - Task 6.executor": "Run",
     "Python.Class.executor": "Run",
+    "Python.Composition.executor": "Run",
+    "Python.Data Manipulation.executor": "Run",
     "Python.Day 3 Task.executor": "Run",
     "Python.Dictionary.executor": "Run",
+    "Python.Image Generation.executor": "Run",
     "Python.Important Libraries.executor": "Run",
     "Python.Inheritance.executor": "Run",
+    "Python.KNN - Loan.executor": "Run",
     "Python.Lists.executor": "Run",
+    "Python.Matplotlib.executor": "Run",
     "Python.Multilevel Inheritance.executor": "Run",
     "Python.Multiple Inheritance.executor": "Run",
     "Python.Pandas.executor": "Run",
@@ -89,6 +97,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Datasets" />
+      <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Tasks\AI - Task 5" />
       <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Tasks" />
       <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Important Libraries" />
       <recent name="C:\Users\Muhammad Taha\PycharmProjects\NAVTTC Artificial Intelligence\Machine Learning" />
@@ -116,7 +125,10 @@
       <workItem from="1719307988539" duration="11195000" />
       <workItem from="1719394036443" duration="6636000" />
       <workItem from="1719457931465" duration="243000" />
-      <workItem from="1719483433231" duration="1374000" />
+      <workItem from="1719483433231" duration="1820000" />
+      <workItem from="1719567241221" duration="6113000" />
+      <workItem from="1719666329264" duration="158000" />
+      <workItem from="1719825336414" duration="3483000" />
     </task>
     <task id="LOCAL-00001" summary="initial Commit">
       <option name="closed" value="true" />
@@ -182,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719458113382</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task 4 Completed">
+      <option name="closed" value="true" />
+      <created>1719485375010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719485375010</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,24 +224,32 @@
     <MESSAGE value="Task 1 Completed" />
     <MESSAGE value="Task 2 Completed" />
     <MESSAGE value="Task 3 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 Completed" />
+    <MESSAGE value="Task 4 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 Completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_3.coverage" NAME="AI - Task 3 Coverage Results" MODIFIED="1719411980313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Important_Libraries.coverage" NAME="Important Libraries Coverage Results" MODIFIED="1719407218666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1719308832973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
-    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Pandas.coverage" NAME="Pandas Coverage Results" MODIFIED="1719408732491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Important Libraries" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Composition.coverage" NAME="Composition Coverage Results" MODIFIED="1719485252156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 4" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$visualize.coverage" NAME="visualize Coverage Results" MODIFIED="1719399044923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$KNN___Loan.coverage" NAME="KNN - Loan Coverage Results" MODIFIED="1719827519209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 5" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1719311009342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1719483882145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 4" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$knn.coverage" NAME="knn Coverage Results" MODIFIED="1719398677251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning" />
-    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Day_3_Task.coverage" NAME="Day 3 Task Coverage Results" MODIFIED="1719128024592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_2.coverage" NAME="AI - Task 2 Coverage Results" MODIFIED="1719327218815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Matplotlib.coverage" NAME="Matplotlib Coverage Results" MODIFIED="1719569216643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Important Libraries" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1719310589734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$activate_this.coverage" NAME="activate_this Coverage Results" MODIFIED="1719073409202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Data_Manipulation.coverage" NAME="Data Manipulation Coverage Results" MODIFIED="1719571978699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Important Libraries" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Multiple_Inheritance.coverage" NAME="Multiple Inheritance Coverage Results" MODIFIED="1719484422108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 4" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_5.coverage" NAME="AI - Task 5 Coverage Results" MODIFIED="1719825863879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Image_Generation.coverage" NAME="Image Generation Coverage Results" MODIFIED="1719666446662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample Code" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_3.coverage" NAME="AI - Task 3 Coverage Results" MODIFIED="1719570208855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_6.coverage" NAME="AI - Task 6 Coverage Results" MODIFIED="1719828811589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Pandas.coverage" NAME="Pandas Coverage Results" MODIFIED="1719573932862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Important Libraries" />
+    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Day_3_Task.coverage" NAME="Day 3 Task Coverage Results" MODIFIED="1719128024592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Multilevel_Inheritance.coverage" NAME="Multilevel Inheritance Coverage Results" MODIFIED="1719484309318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 4" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1719310999062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics" />
-    <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Multiple_Inheritance.coverage" NAME="Multiple Inheritance Coverage Results" MODIFIED="1719484422108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 4" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$AI___Task_1.coverage" NAME="AI - Task 1 Coverage Results" MODIFIED="1719323109395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks" />
     <SUITE FILE_PATH="coverage/NAVTTC_Artificial_Intelligence$Class.coverage" NAME="Class Coverage Results" MODIFIED="1719483784275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks/AI - Task 4" />
   </component>

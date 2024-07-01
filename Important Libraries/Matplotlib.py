@@ -16,5 +16,5 @@ mec: set the color of the edge of the markers
 mfc: set the color inside the edge of the markers
 """
 
-plt.plot(x, y, marker='o', ms=5, mec='r', mfc='r', linestyle='dotted')
+plt.plot(x, y, marker='*', ms=5, mec='b', mfc='b', linestyle='dotted')
 plt.show()
